@@ -1,0 +1,36 @@
+GITHUB ACTION->
+IT is a powerfull automation tool provided by  github that anable developers to automate task 
+related to their software development workflow . it allow for the creation of the coustom workflow 
+which can be triggerd by various events ,such as pushes to a repo pull requestor shedule events
+these workflow can be used for various perpose including Continous Integration(CI),continous development(CD)
+TESTing and more
+
+github action-->CI/CD TOOLS
+
+github >means-->code repo-->commit code-->collaborative
+
+GIT <means>--> distributed version control system--->we abell to track sourec code file
+
+
+{GITHUB REPO}<-----[PROJECT]-------->DEV A,B,C WORK ON THE PROJECT
+
+
+GITHUB ACTION---> CI/CD TOOL 
+
+CONTINOUS Integration and continous development are two key practice in the modern software development and 
+github action can facilitate both
+
+Continous Integration-> ci is the practice where developers merged there cod ein the shared repo 
+each merge trigger an automated build and testing process to 
+ensure the change do not break the existing functionlities .withngithub action develoer can set 
+up workflow to automatically build and set their code  every time they push chnage to reposratoy 
+or create a pull requesto
+
+Continous development->
+cd extended concept of ci by automating the development of code to 
+production env after it passes all required test github action can be configured to 
+autometically deploy application  to various env such staging or production 
+once the code passed ci test this process reduce the time between development and depolyment
+ allowing faster delelevry of feature and update
+
+
